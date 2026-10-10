@@ -106,6 +106,7 @@ input:hover {
   font-size: 20px;
 }
 footer {
+  margin-top: 20px;
   color: pink;
   font-size: 10px;
 }
